@@ -1,6 +1,6 @@
 {
-  "name": "change-me",
-  "version": "1.0.0",
+  "name": "discord-soundcloud-rpc",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,9 @@
     "typescript": "^5.8.3",
     "webpack": "^5.99.9",
     "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "@types/discord-rpc": "^4.0.9",
+    "discord-rpc": "^4.0.1"
   }
 }
